@@ -28,3 +28,13 @@ The PIR sensor detects human movement, while the LDR senses ambient light levels
 
 ## Project Status
 Completed and tested as a hardware prototype.
+## Project Demonstration
+
+### Hardware Setup
+![Project Setup](project_setup.jpeg)
+
+### Hardware Implementation
+![Hardware Implementation](hardware_implementation.jpeg)
+
+### Serial Monitor Output
+![Serial Monitor](serial_monitor_output.jpeg)
